@@ -1,5 +1,5 @@
 # 3DPowerOptimization
-PRIDE tool for updating PO-prep-phase's drive scale. 
+PRIDE tool for updating PO-prep-phase's drive scale. This is a further development of "LocateInData"
 
 # Introduction
 PRIDE tool for updating the scanner's found drive-scale based on an input B1map (only for Classic). Tested and developed for 2ch-NOVA head coil using DREAM B1 maps as implemented in the 7T software "5.1.7 rev C".
